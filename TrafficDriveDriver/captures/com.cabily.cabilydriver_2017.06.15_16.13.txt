@@ -1,0 +1,189 @@
+Applications Memory Usage (kB):
+Uptime: 61769888 Realtime: 107843979
+
+** MEMINFO in pid 28166 [com.cabily.cabilydriver] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    23678    23356        0     7004    59752    59593      158
+  Dalvik Heap    37092    37056        0     5084    48916    43558     5358
+ Dalvik Other     1920     1920        0       36                           
+        Stack      632      632        0        0                           
+       Ashmem       42       40        0        0                           
+      Gfx dev    55600    54940        0        0                           
+    Other dev       14        0       12        0                           
+     .so mmap     4140      308     2396     1480                           
+    .apk mmap     1061        0      248        0                           
+    .ttf mmap      122        0      112        0                           
+    .dex mmap    14788       24    12740        0                           
+    .oat mmap     3782        0     1396        4                           
+    .art mmap     1714     1168       36      184                           
+   Other mmap       89        8       24        0                           
+   EGL mtrack    27968    27968        0        0                           
+      Unknown    20379    20376        0       64                           
+        TOTAL   193021   167796    16964    13856   108668   103151     5516
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    38260
+         Native Heap:    23356
+                Code:    17224
+               Stack:      632
+            Graphics:    82908
+       Private Other:    22380
+              System:     8261
+ 
+               TOTAL:   193021      TOTAL SWAP (KB):    13856
+ 
+ Objects
+               Views:      466         ViewRootImpl:        3
+         AppContexts:       12           Activities:        5
+              Assets:      137        AssetManagers:        5
+       Local Binders:       62        Proxy Binders:       45
+       Parcel memory:       55         Parcel count:      119
+    Death Recipients:        2      OpenSSL Sockets:        3
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:       49          MALLOC_SIZE:        0
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       24             18         0/26/3  /data/user/0/com.cabily.cabilydriver/databases/geo.db
+         4       24             17        27/22/2  /data/user/0/com.cabily.cabilydriver/databases/geo.db
+         4       24             14         0/21/1  /data/user/0/com.cabily.cabilydriver/databases/geo.db
+ 
+ Asset Allocations
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K
+    zip:/data/app/com.cabily.cabilydriver-2/base.apk:/assets/fonts/Roboto-Medium.ttf: 157K

@@ -1,0 +1,436 @@
+TASK com.cabily.cabilydriver id=86
+  ACTIVITY com.cabily.cabilydriver/.TripSummaryDetail f0cb166 pid=28166
+    Local Activity 736db79 State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 ?mcc?mnc en_GB ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.5?spn}
+      mLoadersStarted=true
+      Active Fragments in 4ef9f0c:
+        #0: MapFragment{bc49055 #0 id=0x7f0e032f}
+          mFragmentId=#7f0e032f mContainerId=#7f0e032e mTag=null
+          mState=5 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+          mAdded=true mRemoving=false mResumed=true mFromLayout=true mInLayout=true
+          mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+          mRetainInstance=false mRetaining=false mUserVisibleHint=true
+          mFragmentManager=FragmentManager{4ef9f0c in HostCallbacks{d698a6a}}
+          mHost=android.app.Activity$HostCallbacks@d698a6a
+          mView=android.widget.FrameLayout{6186b5b V.E...C.. ........ 0,0-720,400 #7f0e032f app:id/tripsummery_view_map}
+          Child FragmentManager{c7d9ff8 in MapFragment{bc49055}}:
+            FragmentManager misc state:
+              mHost=android.app.Activity$HostCallbacks@d698a6a
+              mContainer=android.app.Fragment$1@a0adcd1
+              mParent=MapFragment{bc49055 #0 id=0x7f0e032f}
+              mCurState=5 mStateSaved=false mDestroyed=false
+      Added Fragments:
+        #0: MapFragment{bc49055 #0 id=0x7f0e032f}
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@d698a6a
+        mContainer=android.app.Activity$HostCallbacks@d698a6a
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=61541825 (211602 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{8de336 V.E...... R....... 0,0-720,1280}
+        android.widget.LinearLayout{9686237 V.E...... ........ 0,0-720,1184}
+          android.view.ViewStub{ce8c3a4 G.E...... ......I. 0,0-0,0 #10203ab android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{f8f750d V.E...... ........ 0,48-720,1184 #1020002 android:id/content}
+            android.widget.RelativeLayout{accfcc2 V.E...... ........ 0,0-720,1136}
+              android.widget.RelativeLayout{e56ead3 V.E...C.. ........ 0,0-720,90 #7f0e0328 app:id/tripsummry_layouts}
+                android.widget.ImageView{8c07610 V.ED..... ........ 30,20-80,70 #7f0e0329 app:id/tripsummry_back}
+                com.cabily.cabilydriver.widgets.CustomTextView{e4b5509 V.ED..... ........ 140,24-184,65 #7f0e02e5 app:id/trip_rideidTv}
+                com.cabily.cabilydriver.widgets.CustomTextView{7f2230e V.ED..... ........ 204,24-408,65 #7f0e032a app:id/tripsummry_rideidTv}
+              android.widget.ScrollView{39b612f VFED.V... ........ 0,90-720,1002 #7f0e032b app:id/scrollView_tripsummry}
+                android.widget.RelativeLayout{a1ee33c V.E...... ........ 0,0-720,756 #7f0e032d app:id/layout_scroll}
+                  android.widget.RelativeLayout{4cb38c5 V.E...... ........ 0,0-720,756 #7f0e032e app:id/layout_trip_summery_details}
+                    android.widget.FrameLayout{6186b5b V.E...C.. ........ 0,0-720,400 #7f0e032f app:id/tripsummery_view_map}
+                      android.widget.FrameLayout{331621a V.E...... ........ 0,0-720,400}
+                        com.google.maps.api.android.lib6.gmm6.api.x{206e14b VFED..C.. ........ 0,0-720,400}
+                        android.widget.RelativeLayout{94f728 V.E...... ........ 0,0-720,400}
+                          android.widget.ImageView{3ab9c41 V.ED..... ........ 10,346-130,390}
+                          android.widget.TextView{4f385e6 G.ED..... ......ID 0,0-0,0}
+                        android.widget.RelativeLayout{4604727 V.E...... ........ 0,0-720,400}
+                          android.widget.ImageView{1d65dd4 G.ED..C.. ......I. 0,0-0,0 #2}
+                          android.widget.RelativeLayout{ed4bb7d G.E...... ......I. 0,0-0,0 #3}
+                            com.google.maps.api.android.lib6.impl.ca{1621a72 G.ED..C.. ......I. 0,0-0,0}
+                          android.widget.LinearLayout{1002ec3 G.E...... ......I. 0,0-0,0 #1}
+                            android.widget.ImageView{9258340 V.ED..C.. ......I. 0,0-0,0}
+                            android.widget.ImageView{6769279 V.ED..C.. ......I. 0,0-0,0}
+                          android.widget.LinearLayout{3b36bbe G.E...... ......I. 0,0-0,0 #4}
+                            android.widget.ImageView{12cf41f V.ED..C.. ......I. 0,0-0,0}
+                            android.widget.ImageView{17f936c V.ED..C.. ......I. 0,0-0,0}
+                          com.google.maps.api.android.lib6.impl.ak{3c4dd35 G.ED..C.. ......I. 20,20-100,100 #5}
+                    android.widget.RelativeLayout{23685ca V.E...... ........ 0,400-720,756 #7f0e0330 app:id/layout_rideaddress_and_locarions_details}
+                      android.widget.RelativeLayout{236b33b V.E...... ........ 0,0-720,356 #7f0e0331 app:id/relativeLayout}
+                        android.widget.RelativeLayout{6887a58 V.E...... ........ 0,20-720,222 #7f0e0332 app:id/layout_trip_summery_details_address}
+                          android.widget.ImageView{57317b1 V.ED..... ........ 20,81-60,121 #7f0e0333 app:id/mapicon}
+                          android.widget.RelativeLayout{71f3496 V.E...... ........ 120,10-720,116 #7f0e0334 app:id/layout_tripsummery_detail_address}
+                            com.cabily.cabilydriver.widgets.CustomTextView{c534817 V.ED..... ........ 0,10-95,46 #7f0e0335 app:id/trip_pickup_address_txt}
+                            com.cabily.cabilydriver.widgets.CustomTextView{836e404 V.ED..... ........ 105,10-600,106 #7f0e0336 app:id/Tv_tripsummery_view_address}
+                          android.widget.RelativeLayout{7f07ded V.E...... ........ 120,126-720,202 #7f0e0337 app:id/layout_tripsummery_detail_dropaddress}
+                            com.cabily.cabilydriver.widgets.CustomTextView{a120422 V.ED..... ........ 0,10-69,46 #7f0e0338 app:id/trip_drop_address_txt}
+                            com.cabily.cabilydriver.widgets.CustomTextView{b3a4eb3 V.ED..... ........ 109,10-600,76 #7f0e0339 app:id/Tv_tripsummery_view_dropaddress}
+                        android.view.View{d403c70 V.ED..... ........ 40,242-680,243 #7f0e033a app:id/ride_request_view1}
+                        android.widget.RelativeLayout{5640be9 V.E...... ........ 0,253-720,345 #7f0e033b app:id/tripsummery_detail_view_dates}
+                          android.widget.ImageView{670406e V.ED..... ........ 30,28-66,64 #7f0e033c app:id/clock_icon}
+                          android.widget.RelativeLayout{44af9c V.E...... ........ 126,0-720,46 #7f0e033d app:id/layout_tripsummery_pickup}
+                            com.cabily.cabilydriver.widgets.CustomTextView{9687da5 V.ED..... ........ 0,10-95,46 #7f0e033e app:id/trip_pickup_date_txt}
+                            com.cabily.cabilydriver.widgets.CustomTextView{a63f57a V.ED..... ........ 105,10-439,46 #7f0e033f app:id/trip_view_pickupdates}
+                          android.widget.RelativeLayout{7b6e12b I.E...... ........ 126,46-720,92 #7f0e0340 app:id/layout_tripsummery_drop}
+                            com.cabily.cabilydriver.widgets.CustomTextView{3bb2988 V.ED..... ........ 0,10-69,46 #7f0e0341 app:id/trip_drop_date_txt}
+                            com.cabily.cabilydriver.widgets.CustomTextView{4884f21 V.ED..... ......ID 109,10-109,46 #7f0e0342 app:id/trip_view_dropupdates}
+                        android.view.View{aabef46 V.ED..... ........ 40,355-680,356 #7f0e0343 app:id/trip_detail_view2}
+                    android.widget.RelativeLayout{4406507 G.E...... ......I. 0,0-0,0 #7f0e0344 app:id/layoutsummery_and_bill_details}
+                      android.widget.LinearLayout{89d5634 V.E...... ......I. 0,0-0,0 #7f0e01f5 app:id/trip_details_view_details_time}
+                        android.widget.RelativeLayout{b79bc5d V.E...... ......ID 0,0-0,0 #7f0e0345 app:id/tripsummery_view_details}
+                          com.cabily.cabilydriver.widgets.CustomTextView{727b9d2 V.ED..... ......ID 0,0-0,0 #7f0e0346 app:id/trip_detail_distancekm}
+                          com.cabily.cabilydriver.widgets.CustomTextView{f44aa3 V.ED..... ......ID 0,0-0,0 #7f0e0347 app:id/trip_detail_distances_txt}
+                        android.widget.RelativeLayout{3d3a1a0 V.E...... ......ID 0,0-0,0 #7f0e0348 app:id/trip_detail_view_between2}
+                          com.cabily.cabilydriver.widgets.CustomTextView{e1ac159 V.ED..... ......ID 0,0-0,0 #7f0e0349 app:id/tripdetail_timetaken_value}
+                          com.cabily.cabilydriver.widgets.CustomTextView{c23a11e V.ED..... ......ID 0,0-0,0 #7f0e034a app:id/requst_ride_time_taken_txt}
+                        android.widget.RelativeLayout{176edff V.E...... ......ID 0,0-0,0 #7f0e034b app:id/trip_detail_maximum_button2}
+                          com.cabily.cabilydriver.widgets.CustomTextView{e6137cc V.ED..... ......ID 0,0-0,0 #7f0e034d app:id/tripdetail_wait_time_value}
+                          com.cabily.cabilydriver.widgets.CustomTextView{22d1a15 V.ED..... ......ID 0,0-0,0 #7f0e034e app:id/requst_wait_time_txt}
+                      android.view.View{c64b12a V.ED..... ......ID 0,0-0,0 #7f0e034f app:id/tripdetail_request_view3}
+                      android.widget.RelativeLayout{5566b1b V.E...... ......I. 0,0-0,0 #7f0e0350 app:id/trip_detail_bill_details}
+                        android.widget.ImageView{c5004b8 V.ED..... ......I. 0,0-0,0 #7f0e0351 app:id/bill_icon_trip}
+                        android.widget.RelativeLayout{dd24291 V.E...... ......I. 0,0-0,0 #7f0e0352 app:id/layout_totalbill_details_tripdetail_view}
+                          com.cabily.cabilydriver.widgets.CustomTextView{ff4b5f6 V.ED..... ......ID 0,0-0,0 #7f0e0353 app:id/trip_detail_view_request_total_bill}
+                          com.cabily.cabilydriver.widgets.CustomTextView{ce69df7 V.ED..... ......ID 0,0-0,0 #7f0e0354 app:id/trip_detail_view_total_amount}
+                        android.widget.RelativeLayout{65cb464 V.E...... ......I. 0,0-0,0 #7f0e0355 app:id/layout_totalbill_paid_details_tripdetail_view}
+                          com.cabily.cabilydriver.widgets.CustomTextView{dc776cd V.ED..... ......ID 0,0-0,0 #7f0e0356 app:id/tripdetail_view_total_paid_bill}
+                          com.cabily.cabilydriver.widgets.CustomTextView{3ae3b82 V.ED..... ......ID 0,0-0,0 #7f0e0357 app:id/tripdetail_view_total_paid_amount}
+                      android.view.View{fdd2293 V.ED..... ......ID 0,0-0,0 #7f0e0358 app:id/tripdetail_request_view4}
+                    android.widget.RelativeLayout{262b2d0 V.E...... ........ 507,292-700,370 #7f0e0359 app:id/layout_trip_summery_details_status}
+                      com.cabily.cabilydriver.widgets.CustomTextView{361b2c9 V.ED..... ........ 20,20-173,58 #7f0e035a app:id/tripdetail_status}
+                    android.widget.RelativeLayout{5888dce G.E...... ......I. 0,0-0,0 #7f0e035b app:id/layout_tripdetail_payment_status}
+                      com.cabily.cabilydriver.widgets.CustomTextView{1ad54ef V.ED..... ......ID 0,0-0,0 #7f0e035c app:id/payment_paid_Textview_tripdetail}
+                  android.widget.TextView{6882bfc G.ED..... ......I. 0,0-0,0 #7f0e035d app:id/wallet_usage}
+                  android.widget.TextView{649b285 G.ED..... ......I. 0,0-0,0 #7f0e035e app:id/coupon_discount}
+                  android.widget.TextView{9a3b8da G.ED..... ......I. 0,0-0,0 #7f0e035f app:id/driver_tip_tv}
+              android.widget.RelativeLayout{fa4510b V.E...... ........ 0,1002-720,1102 #7f0e032c app:id/layout_tripbtns}
+                android.widget.Button{32a0be8 GFED..C.. ......I. 0,0-0,0 #7f0e0360 app:id/trip_summerydetail_cancelride_button}
+                android.widget.Button{5f7f201 VFED..C.. ........ 60,20-660,100 #7f0e0361 app:id/trip_summerydetail_continue_ride_button}
+                android.widget.Button{41488a6 GFED..C.. ......I. 0,0-0,0 #7f0e0362 app:id/trip_summerydetail_requestpayment_button}
+        android.view.View{4c4f2e7 V.ED..... ........ 0,1184-720,1280 #1020030 android:id/navigationBarBackground}
+        android.view.View{f87fe94 V.ED..... ........ 0,0-720,48 #102002f android:id/statusBarBackground}
+    Looper (main, tid 1) {6f0ad3d}
+      Message 0: { when=+5s278ms callback=com.cabily.cabilydriver.Helper.GEOService$2 target=android.os.Handler }
+      Message 1: { when=+12h43m34s838ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      Message 2: { when=+12h43m38s324ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      Message 3: { when=+12h43m44s634ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      (Total messages: 4, polling=false, quitting=false)
+
+  ACTIVITY com.cabily.cabilydriver/.DriverMapActivity b5f928a pid=28166
+    Local Activity b17bbb7 State:
+      mResumed=false mStopped=true mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 ?mcc?mnc en_GB ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.5?spn}
+      mLoadersStarted=true
+      Active Fragments in 3708932:
+        #0: MapFragment{f63d683 #0 id=0x7f0e0219}
+          mFragmentId=#7f0e0219 mContainerId=#ffffffff mTag=null
+          mState=3 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+          mAdded=true mRemoving=false mResumed=false mFromLayout=true mInLayout=true
+          mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+          mRetainInstance=false mRetaining=false mUserVisibleHint=true
+          mFragmentManager=FragmentManager{3708932 in HostCallbacks{5307000}}
+          mHost=android.app.Activity$HostCallbacks@5307000
+          mSavedViewState={1=android.view.AbsSavedState$1@7bfe039, 2=android.view.AbsSavedState$1@7bfe039, 3=android.view.AbsSavedState$1@7bfe039, 4=android.view.AbsSavedState$1@7bfe039, 5=android.view.AbsSavedState$1@7bfe039, 2131624473=android.view.AbsSavedState$1@7bfe039}
+          mView=android.widget.FrameLayout{81a067e V.E...C.. .......D 0,0-720,1136 #7f0e0219 app:id/map}
+          Child FragmentManager{48357df in MapFragment{f63d683}}:
+            FragmentManager misc state:
+              mHost=android.app.Activity$HostCallbacks@5307000
+              mContainer=android.app.Fragment$1@62c8c2c
+              mParent=MapFragment{f63d683 #0 id=0x7f0e0219}
+              mCurState=3 mStateSaved=true mDestroyed=false
+      Added Fragments:
+        #0: MapFragment{f63d683 #0 id=0x7f0e0219}
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@5307000
+        mContainer=android.app.Activity$HostCallbacks@5307000
+        mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=61541825 (211622 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{9b546f5 I.E...... R......D 0,0-720,1280}
+        android.widget.LinearLayout{44c0c8a V.E...... .......D 0,0-720,1184}
+          android.view.ViewStub{cef92fb G.E...... ......I. 0,0-0,0 #10203ab android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{9ec3f18 V.E...... .......D 0,48-720,1184 #1020002 android:id/content}
+            android.widget.RelativeLayout{9605d71 V.E...... .......D 0,0-720,1136}
+              android.widget.FrameLayout{81a067e V.E...C.. .......D 0,0-720,1136 #7f0e0219 app:id/map}
+                android.widget.FrameLayout{e66756 V.E...... ......ID 0,0-720,1136}
+                  com.google.maps.api.android.lib6.gmm6.api.x{81a63d7 VFED..C.. ......ID 0,0-720,1136}
+                  android.widget.RelativeLayout{cf234c4 V.E...... ........ 0,0-720,1136}
+                    android.widget.ImageView{2cc5fad V.ED..... ........ 10,1082-130,1126}
+                    android.widget.TextView{2f9a2e2 G.ED..... ......ID 0,0-0,0}
+                  android.widget.RelativeLayout{b76673 V.E...... ........ 0,0-720,1136}
+                    android.widget.ImageView{f3fd930 G.ED..... ......I. 0,0-0,0 #2}
+                    android.widget.RelativeLayout{d7c49a9 G.E...... ......I. 0,0-0,0 #3}
+                      com.google.maps.api.android.lib6.impl.ca{e130b2e G.ED..C.. ......I. 0,0-0,0}
+                    android.widget.LinearLayout{f17f6cf G.E...... ......I. 0,0-0,0 #1}
+                      android.widget.ImageView{d81585c V.ED..C.. ......I. 0,0-0,0}
+                      android.widget.ImageView{c26d765 V.ED..C.. ......I. 0,0-0,0}
+                    android.widget.LinearLayout{f48ac3a G.E...... ......I. 0,0-0,0 #4}
+                      android.widget.ImageView{54730eb V.ED..C.. ......I. 0,0-0,0}
+                      android.widget.ImageView{f99e48 V.ED..C.. ......I. 0,0-0,0}
+                    com.google.maps.api.android.lib6.impl.ak{c3284e1 I.ED..C.. ......I. 20,20-100,100 #5}
+              android.support.v7.widget.CardView{d055206 V.E...... ......ID 20,20-700,120 #7f0e02f2 app:id/driver_details}
+                android.widget.RelativeLayout{e5f0c7 V.E...... ........ 0,0-680,100}
+                  com.cabily.cabilydriver.widgets.CustomTextView{22e56f4 V.ED..... ........ 319,0-360,41 #7f0e02f3 app:id/driver_name}
+                  com.cabily.cabilydriver.widgets.CustomTextView{f18e1d V.ED..... ........ 316,41-364,79 #7f0e02f4 app:id/driver_vehicle_number}
+              android.widget.Button{7948892 IFED..C.. ......I. 4,1036-716,1132 #7f0e02f5 app:id/go_offline}
+              android.widget.RelativeLayout{ec6d263 G.E...... ......ID 0,0-0,0 #7f0e02f6 app:id/layout_verify_status}
+                com.cabily.cabilydriver.widgets.CustomTextView{a53ee60 V.ED..... ......ID 0,0-0,0 #7f0e02f7 app:id/map_verify_status}
+              android.widget.RelativeLayout{69def19 V.E...C.. ......ID 30,150-690,323 #7f0e02f8 app:id/layout_available_status}
+                com.cabily.cabilydriver.widgets.CustomTextView{66e9bde V.ED..... ........ 20,20-640,153 #7f0e02f9 app:id/map_available_status}
+              android.widget.RelativeLayout{c4a31bf I.E...... .......D 606,140-680,220 #7f0e00d4 app:id/traffic_btn_layout}
+                android.widget.ImageButton{f79908c VFED..C.. ......ID 2,2-72,78 #7f0e00d6 app:id/traffic}
+              android.widget.ImageButton{91563d5 VFED..C.. ......ID 620,936-696,1012 #7f0e00d7 app:id/refresh}
+        android.view.View{e4497ea V.ED..... ......ID 0,1184-720,1280 #1020030 android:id/navigationBarBackground}
+        android.view.View{27a2adb V.ED..... ......ID 0,0-720,48 #102002f android:id/statusBarBackground}
+    Looper (main, tid 1) {6f0ad3d}
+      Message 0: { when=+5s269ms callback=com.cabily.cabilydriver.Helper.GEOService$2 target=android.os.Handler }
+      Message 1: { when=+12h43m34s829ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      Message 2: { when=+12h43m38s315ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      Message 3: { when=+12h43m44s625ms callback=com.google.maps.api.android.lib6.impl.fd target=android.os.Handler }
+      (Total messages: 4, polling=false, quitting=false)
+
+  ACTIVITY com.cabily.cabilydriver/.NavigationDrawerNew 371350c pid=28166
+    Local FragmentActivity f837009 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    Active Fragments in 7752978:
+      #0: DashBoardDriver{a556851 #0 id=0x7f0e026c}
+        mFragmentId=#7f0e026c mContainerId=#7f0e026c mTag=null
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{7752978 in HostCallbacks{bcc48b6}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@bcc48b6
+        mSavedViewState={2131624146=android.view.AbsSavedState$1@7bfe039, 2131624160=android.view.AbsSavedState$1@7bfe039, 2131624298=android.view.AbsSavedState$1@7bfe039, 2131624299=android.view.AbsSavedState$1@7bfe039, 2131624300=android.view.AbsSavedState$1@7bfe039, 2131624301=android.view.AbsSavedState$1@7bfe039, 2131624302=android.view.AbsSavedState$1@7bfe039, 2131624303=android.view.AbsSavedState$1@7bfe039, 2131624304=android.view.AbsSavedState$1@7bfe039, 2131624305=android.view.AbsSavedState$1@7bfe039, 2131624306=android.view.AbsSavedState$1@7bfe039, 2131624307=android.view.AbsSavedState$1@7bfe039, 2131624308=android.widget.ProgressBar$SavedState@6e699b7, 2131624309=HorizontalScrollView.SavedState{d8f6524 scrollPosition=0}, 2131624311=android.view.AbsSavedState$1@7bfe039, 2131624312=android.view.AbsSavedState$1@7bfe039, 2131624313=android.view.AbsSavedState$1@7bfe039, 2131624314=android.view.AbsSavedState$1@7bfe039, 2131624315=android.view.AbsSavedState$1@7bfe039, 2131624316=android.view.AbsSavedState$1@7bfe039, 2131624317=android.view.AbsSavedState$1@7bfe039, 2131624318=android.view.AbsSavedState$1@7bfe039, 2131624319=android.view.AbsSavedState$1@7bfe039, 2131624320=android.view.AbsSavedState$1@7bfe039, 2131624321=android.view.AbsSavedState$1@7bfe039, 2131624322=android.view.AbsSavedState$1@7bfe039, 2131624323=android.view.AbsSavedState$1@7bfe039, 2131624324=android.view.AbsSavedState$1@7bfe039, 2131624325=android.view.AbsSavedState$1@7bfe039, 2131624326=android.view.AbsSavedState$1@7bfe039, 2131624327=android.view.AbsSavedState$1@7bfe039, 2131624328=android.view.AbsSavedState$1@7bfe039, 2131624329=android.view.AbsSavedState$1@7bfe039, 2131624330=android.view.AbsSavedState$1@7bfe039, 2131624331=android.view.AbsSavedState$1@7bfe039, 2131624332=android.view.AbsSavedState$1@7bfe039, 2131624333=android.view.AbsSavedState$1@7bfe039, 2131624334=android.view.AbsSavedState$1@7bfe039}
+        mContainer=android.widget.FrameLayout{4b7388d V.E...... ......ID 0,48-720,1184 #7f0e026c app:id/content_frame}
+        mView=android.widget.RelativeLayout{f4c3a42 V.E...... ......ID 0,0-720,1136}
+        mInnerView=android.widget.RelativeLayout{f4c3a42 V.E...... ......ID 0,0-720,1136}
+        Child FragmentManager{e411a53 in DashBoardDriver{a556851}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@bcc48b6
+            mContainer=android.support.v4.app.Fragment$1@6efaf90
+            mParent=DashBoardDriver{a556851 #0 id=0x7f0e026c}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: DashBoardDriver{a556851 #0 id=0x7f0e026c}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@bcc48b6
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@bcc48b6
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{4ebd089 I.E..... ... 0,0-720,1280}
+        android.widget.LinearLayout{4e7b88e V.E..... ... 0,0-720,1184}
+          android.view.ViewStub{cb908af G.E..... ... 0,0-0,0 #10203ab android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{1c834bc V.E..... ... 0,0-720,1184}
+            android.support.v7.widget.FitWindowsLinearLayout{7b7ec45 V.E..... ... 0,0-720,1184 #7f0e0099 app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{5aacf9a G.E..... ... 0,0-0,0 #7f0e009a app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{1780cb V.E..... ... 0,0-720,1184 #1020002 android:id/content}
+                android.support.v4.widget.DrawerLayout{b41e0a8 VFED.... F.. 0,0-720,1184 #7f0e026b app:id/navigation_drawer}
+                  android.widget.FrameLayout{4b7388d V.E..... ... 0,48-720,1184 #7f0e026c app:id/content_frame}
+                    android.widget.RelativeLayout{f4c3a42 V.E..... ... 0,0-720,1136}
+                      android.widget.RelativeLayout{77007c1 V.E..... ... 0,0-720,110 #7f0e016a app:id/layout_driverdash_board_head}
+                        android.widget.RelativeLayout{d564b66 V.E..... ... 0,0-720,110 #7f0e016b app:id/relativeLayout_home_driverdetail_header}
+                          android.support.v7.widget.AppCompatImageView{f9b5ea7 V.ED..C. ... 10,20-80,90 #7f0e00e0 app:id/ham_home}
+                          android.support.v7.widget.AppCompatButton{8285f54 VFED..C. ... 210,20-510,90 #7f0e016c app:id/Bt_gonlinebutton}
+                      android.widget.RelativeLayout{5345efd V.E..... ... 10,120-710,408 #7f0e016d app:id/layout_driver_details}
+                        android.widget.RelativeLayout{ebb7f2 V.E..... ... 0,0-700,288}
+                          com.cabily.cabilydriver.Utils.RoundedImageView{c730a2e V.ED.... ... 30,64-190,224 #7f0e016e app:id/dasboard_driverimg}
+                          com.cabily.cabilydriver.widgets.CustomTextView{d953e43 V.ED.... ... 220,20-261,61 #7f0e016f app:id/home_user_name}
+                          com.cabily.cabilydriver.widgets.CustomTextView{c561cc0 V.ED.... ... 220,69-558,110 #7f0e0170 app:id/home_car_name}
+                          com.cabily.cabilydriver.widgets.CustomTextView{9ecedf9 V.ED.... ... 220,118-285,159 #7f0e0171 app:id/home_car_category}
+                          com.cabily.cabilydriver.widgets.CustomTextView{1f9613e V.ED.... ... 220,167-271,208 #7f0e0172 app:id/home_car_no}
+                          com.cabily.cabilydriver.widgets.CustomTextView{6c37b9f V.ED.... ... 390,216-498,257 #7f0e0173 app:id/rating_label}
+                          android.support.v7.widget.AppCompatRatingBar{ce044ec V.ED.... ... 220,218-380,250 #7f0e0174 app:id/driver_dashboard_ratting}
+                          com.cabily.cabilydriver.widgets.CustomTextView{b0570b5 I.ED.... ... 350,250-350,288 #7f0e00d2 app:id/dummy}
+                      android.widget.ScrollView{aa6534a VFED.V.. ... 0,408-720,1136 #7f0e0175 app:id/scrollView3}
+                        android.widget.RelativeLayout{b6e32bb V.E..... ... 0,0-720,1018}
+                          android.widget.FrameLayout{902c3d8 V.E...C. ... 0,10-720,270 #7f0e0176 app:id/driver_dashboradsmain_map}
+                            android.widget.FrameLayout{ee96331 V.E..... ... 0,0-720,260}
+                              com.google.maps.api.android.lib6.gmm6.api.x{e7e5a16 VFED..C. ... 0,0-720,260}
+                              android.widget.RelativeLayout{e433f97 V.E..... ... 0,0-720,260}
+                                android.widget.ImageView{5cc4584 V.ED.... ... 10,206-130,250}
+                                android.widget.TextView{d40016d G.ED.... ... 0,0-0,0}
+                              android.widget.RelativeLayout{bfe01a2 V.E..... ... 0,0-720,260}
+                                android.widget.ImageView{4f23e33 G.ED..C. ... 0,0-0,0 #2}
+                                android.widget.RelativeLayout{88a35f0 V.E..... ... 700,20-700,240 #3}
+                                  com.google.maps.api.android.lib6.impl.ca{d07b1e2 G.ED..C. ... 0,0-0,0}
+                                android.widget.LinearLayout{6e84769 G.E..... ... 0,0-0,0 #1}
+                                  android.widget.ImageView{ade95ee V.ED..C. ... 0,0-0,0}
+                                  android.widget.ImageView{6888a8f V.ED..C. ... 0,0-0,0}
+                                android.widget.LinearLayout{bf4c11c G.E..... ... 0,0-0,0 #4}
+                                  android.widget.ImageView{1b4f125 V.ED..C. ... 0,0-0,0}
+                                  android.widget.ImageView{32222fa V.ED..C. ... 0,0-0,0}
+                                com.google.maps.api.android.lib6.impl.ak{38d40ab G.ED..C. ... 0,0-0,0 #5}
+                          android.widget.RelativeLayout{c1ad308 V.E..... ... 0,270-720,1018 #7f0e0177 app:id/layout_viwes_dashboard}
+                            android.widget.RelativeLayout{3e87aa1 V.E..... ... 0,10-720,210 #7f0e0178 app:id/layout_lastrip_main}
+                              android.support.v7.widget.CardView{8df74c6 V.E..... ... 20,20-700,200 #7f0e0179 app:id/dashboards_cardView_layout}
+                                android.widget.RelativeLayout{3dd3c87 V.E..... ... 0,0-680,180 #7f0e017a app:id/layout_last_trip}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{50e17b4 V.ED.... ... 30,10-156,53 #7f0e017b app:id/dashboard_driver_last_trip}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{b711fdd V.ED.... ... 30,84-134,117 #7f0e017c app:id/dashboard_ride_time}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{8ce1752 V.ED.... ... 30,127-197,160 #7f0e017d app:id/dashboard_last_trip_ride_date}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{6471a23 V.ED.... ... 569,58-660,107 #7f0e017e app:id/netAmount_price_last_trips}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{4efb20 V.ED.... ... 465,117-660,160 #7f0e017f app:id/netAmount}
+                            android.widget.RelativeLayout{ce4dcd9 V.E..... ... 0,216-720,416 #7f0e0180 app:id/layout_todays_earnings}
+                              android.support.v7.widget.CardView{192569e V.E..... ... 20,20-700,200 #7f0e0181 app:id/dashboards_today_earnings_cardView_layout}
+                                android.widget.RelativeLayout{de7357f V.E..... ... 0,0-680,180 #7f0e0182 app:id/layout_todays_earnings_inside}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{cf8a94c V.ED.... ... 20,20-240,63 #7f0e0183 app:id/dashboard_driver_today_earnings_header}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{63d6d95 V.ED.... ... 30,127-71,160 #7f0e0184 app:id/dashboard_today_earnings_trips}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{5c93eaa V.ED.... ... 30,94-136,127 #7f0e0185 app:id/dashboard_today_earnings_onlinetime}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{943aa9b V.ED.... ... 442,102-650,140 #7f0e0186 app:id/today_earnings_netAmountTv}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{ead0e38 V.ED.... ... 559,53-650,102 #7f0e0187 app:id/netAmount_price_today_earnings}
+                            android.widget.RelativeLayout{1544e11 V.E..... ... 0,422-720,622 #7f0e0188 app:id/layout_todays_tips_main}
+                              android.support.v7.widget.CardView{2d49b76 V.E..... ... 20,20-700,200 #7f0e0189 app:id/dlayout_todays_tips_cardView_layout}
+                                android.widget.RelativeLayout{f285577 V.E..... ... 0,0-680,180 #7f0e018a app:id/layout_todays_tips_inside}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{f40d5e4 V.ED.... ... 20,20-177,63 #7f0e018b app:id/dashboard_driver_today_todays_tips_header}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{21eba4d V.ED.... ... 30,107-113,140 #7f0e018c app:id/dashboard_todays_trips}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{866f902 V.ED.... ... 581,102-640,140 #7f0e018d app:id/today_tips_netamountTv}
+                                  com.cabily.cabilydriver.widgets.CustomTextView{d42d213 V.ED.... ... 539,53-630,102 #7f0e018e app:id/netAmount_price_today_tips}
+                            android.widget.RelativeLayout{f276c50 I.E..... ... 0,628-720,748}
+                          com.cabily.cabilydriver.widgets.CustomTextView{ca9ae49 G.ED.... ... 0,0-0,0}
+                  android.widget.RelativeLayout{ccfa34e I.E..... ... -592,48-0,1184 #7f0e026d app:id/drawer}
+                    android.widget.ListView{47e7c6f VFED.VC. ... 0,0-592,1050 #7f0e026e app:id/drawer_listview}
+                      android.widget.RelativeLayout{9efd7c V.E..... ... 0,0-592,310}
+                        android.widget.RelativeLayout{ed5e605 G.E..... ... 0,0-0,0 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{a06a65a V.ED.... ... 0,0-0,0 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{f20708b V.ED.... ... 0,0-0,0 #7f0e0086 app:id/title}
+                        android.view.View{99c7568 G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{9d3dd81 V.E..... ... 0,0-592,310 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{f78ce26 V.E..... ... 0,0-592,310}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{9ca890a V.ED.... ... 226,30-366,170 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{ca38a67 V.ED.... ... 269,176-323,230 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{8778014 V.ED.... ... 127,230-465,271 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{75fd0bd V.ED.... ... 0,310-592,310}
+                      android.widget.RelativeLayout{493a6b2 V.E..... ... 0,310-592,390}
+                        android.widget.RelativeLayout{f546603 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{7568980 V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{6bdbbb9 V.ED.... ... 120,18-206,61 #7f0e0086 app:id/title}
+                        android.view.View{8117bfe G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{7ad5f5f G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{a5abdac V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{d755a75 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{8055a0a V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{972927b V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{48c0898 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{7ce28f1 V.E..... ... 0,390-592,470}
+                        android.widget.RelativeLayout{ea70cd6 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{68ddb57 V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{f851644 V.ED.... ... 120,18-321,61 #7f0e0086 app:id/title}
+                        android.view.View{50b632d G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{fdf2062 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{baad5f3 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{1df52b0 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{b680529 V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{392e0ae V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{a92de4f V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{5ee9dc V.E..... ... 0,470-592,570}
+                        android.widget.RelativeLayout{fd2cae5 V.E..... ... 0,10-592,90 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{8b059ba V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{e49106b V.ED.... ... 120,18-319,61 #7f0e0086 app:id/title}
+                        android.view.View{5dec7c8 V.ED.... ... 0,100-592,100 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{d6a3061 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{cfa5786 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{4e64847 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{dfc9874 V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{8b8719d V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{5946612 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{b3521e3 V.E..... ... 0,570-592,650}
+                        android.widget.RelativeLayout{e84c7e0 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{aaf8a99 V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{44ed15e V.ED.... ... 120,18-422,61 #7f0e0086 app:id/title}
+                        android.view.View{60df93f G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{b9e820c G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{f653755 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{5b2a56a V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{572ea5b V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{2b7b2f8 V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{48ef3d1 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{3cdae36 V.E..... ... 0,650-592,730}
+                        android.widget.RelativeLayout{d6bd137 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{83106a4 V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{3bdfc0d V.ED.... ... 120,18-378,61 #7f0e0086 app:id/title}
+                        android.view.View{9be77c2 G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{a249d3 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{3c9e910 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{45b4c09 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{4004e0e V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{8bdb02f V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{7cc863c V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{1639fc5 V.E..... ... 0,730-592,810}
+                        android.widget.RelativeLayout{9773d1a V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{87f204b V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{ef9ca28 V.ED.... ... 120,18-377,61 #7f0e0086 app:id/title}
+                        android.view.View{ee37341 G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{93c10e6 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{39d7627 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{d3560d4 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{b33027d V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{9285572 V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{8614dc3 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{ef1b640 V.E..... ... 0,810-592,890}
+                        android.widget.RelativeLayout{7f24979 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{12256be V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{701031f V.ED.... ... 120,18-259,61 #7f0e0086 app:id/title}
+                        android.view.View{35bf66c G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{6c50435 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{f2920ca V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{2bcb23b V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{d480d58 V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{5ceaeb1 V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{207f96 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{8ba3717 V.E..... ... 0,890-592,970}
+                        android.widget.RelativeLayout{6dca704 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{7ee84ed V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{95cff22 V.ED.... ... 120,18-252,61 #7f0e0086 app:id/title}
+                        android.view.View{8a12db3 G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{3ff2f70 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{4bb82e9 V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{eefeb6e V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{af6f20f V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{f7fd29c V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{c4064a5 V.ED.... ... 0,0-0,0}
+                      android.widget.RelativeLayout{13aa02b V.E..... ... 0,970-592,1050}
+                        android.widget.RelativeLayout{f057c88 V.E..... ... 0,0-592,80 #7f0e0157 app:id/drawer_list_item_normal_layout}
+                          android.widget.ImageView{a77a621 V.ED.... ... 40,15-90,65 #7f0e0085 app:id/icon}
+                          com.cabily.cabilydriver.widgets.CustomTextView{815fa46 V.ED.... ... 120,18-221,61 #7f0e0086 app:id/title}
+                        android.view.View{bc11407 G.ED.... ... 0,0-0,0 #7f0e0158 app:id/drawer_list_view}
+                        android.widget.RelativeLayout{9b9d934 G.E..... ... 0,0-0,0 #7f0e0159 app:id/drawer_list_item_profile_layout}
+                          android.widget.RelativeLayout{687835d V.E..... ... 0,0-0,0}
+                            com.cabily.cabilydriver.Utils.RoundedImageView{8a774d2 V.ED.... ... 0,0-0,0 #7f0e015a app:id/profile_icon}
+                            com.cabily.cabilydriver.widgets.CustomTextView{150e9a3 V.ED.... ... 0,0-0,0 #7f0e015b app:id/profile_name}
+                            com.cabily.cabilydriver.widgets.CustomTextView{db554a0 V.ED.... ... 0,0-0,0 #7f0e015c app:id/profile_mobile_number}
+                          android.view.View{9bdf859 V.ED.... ... 0,0-0,0}
+                    android.widget.RelativeLayout{5640c1e V.E..... ... 0,1050-592,1136}
+                      android.view.View{47e7cff V.ED.... ... 0,56-592,86 #7f0e026f app:id/v1}
+                      com.cabily.cabilydriver.widgets.CustomTextView{2b1acc V.ED.... ... 0,15-592,56 #7f0e0270 app:id/verion_no}
+                      android.view.View{a4cc115 V.ED.... ... 0,-17-592,-15 #7f0e0271 app:id/v3}
+        android.view.View{c0cc2a V.ED.... ... 0,1184-720,1280 #1020030 android:id/navigationBarBackground}
+        android.view.View{2c7ea1b V.ED.... ... 0,0-720,48 #102002f android:id/statusBarBackground}
