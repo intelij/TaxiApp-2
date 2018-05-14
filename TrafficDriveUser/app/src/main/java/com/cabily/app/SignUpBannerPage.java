@@ -60,8 +60,9 @@ public class SignUpBannerPage extends ActivityHockeyApp implements BaseSliderVie
 
         int[] myImageInt = {
                 R.drawable.banner1,
-                R.drawable.banner2,
-                R.drawable.banner3,
+                //TSVETAN remove banner for refer frend and book ride for later
+               // R.drawable.banner2,
+               // R.drawable.banner3,
                 R.drawable.banner4,
                 R.drawable.banner5};
 
