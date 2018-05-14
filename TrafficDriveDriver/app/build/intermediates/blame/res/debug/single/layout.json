@@ -1,0 +1,1706 @@
+[
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_library.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_dialog_library.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map3.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\map3.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reviwes_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\reviwes_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roadmap.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\roadmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map2.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\map2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_materialdialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.2.2\\res\\layout\\layout_materialdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\place_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\sms_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_contact_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\choose_contact_popup.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account_header.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\bank_account_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_loading_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\rating_loading_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_location.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\drop_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\endtrip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\endtrip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\begin_trip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\begin_trip.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ads_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\ads_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\trip_summary_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summary.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\fare_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map2.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\map2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_popup.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_popup.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summery_alert_dialog.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_summery_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droplocation_select.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\droplocation_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\TrafficDriveDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_share_seat.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\select_share_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\map_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summery_alert_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_summery_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otp_page.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\otp_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_class.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\map_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backarrow_with_text_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\backarrow_with_text_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridelater_alert.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\ridelater_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receive_cash.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\receive_cash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_home_page_details.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_home_page_details.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arrivedtrip.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\arrivedtrip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pushnotification.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\pushnotification.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_class.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\map_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\driver_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_webview.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\register_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\place_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\payment_details_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list_design.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\payment_details_list_design.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ads_page.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\ads_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_loading_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\rating_loading_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ads_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\ads_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backtoapp_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\backtoapp_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tripsummer_list_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\tripsummer_list_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_home.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\bank_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\end_trip_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\end_trip_detail.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map1.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\map1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map1.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\map1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\bank_account.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_alert.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_webview.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\register_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map2.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\map2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_full_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\navigation_back_full_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backarrow_with_text_header.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\backarrow_with_text_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summery_alert_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\fare_summery_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otp_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\otp_page.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_location.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\drop_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_page.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\feedback_page.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\end_trip_detail.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\end_trip_detail.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_full_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_back_full_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_contact_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\choose_contact_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\payment_details_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arrivedtrip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\arrivedtrip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_seat_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\select_seat_single.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waiting.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\waiting.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridecancel_reasons_dialog.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\ridecancel_reasons_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_location.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\drop_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\custom_loading.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reviwes_list.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\reviwes_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_home_page_details.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_home_page_details.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_layout_final.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_layout_final.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_back_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_page.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_materialdialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.2.2\\res\\layout\\layout_materialdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\place_search_single.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\fare_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_back_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droplocation_select.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\droplocation_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\user_list_single.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_dash_board.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_dash_board.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backarrow_with_text_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\backarrow_with_text_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_single.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\user_list_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roadmap.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\roadmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancelreason_single.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\cancelreason_single.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading_cancel.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_loading_cancel.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\activity_driver_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map3.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\map3.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\TrafficDriveDriver\\slideDateTimePicker\\unspecified\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pushnotification.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\pushnotification.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading_cancel.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\custom_loading_cancel.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_alert.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\activity_driver_alert.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waiting.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\waiting.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map3.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\map3.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridelater_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\ridelater_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\end_trip_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\end_trip_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\rating_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\begin_trip.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\begin_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\place_search_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_webview.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\register_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reviwes_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\reviwes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list_design.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_list_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_library.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\custom_dialog_library.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_popup.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\sms_popup.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_statement_main.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_statement_main.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\endtrip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\endtrip.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_dash_board.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\driver_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roadmap.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\roadmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\TrafficDriveDriver\\slideDateTimePicker\\unspecified\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backtoapp_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\backtoapp_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_loading.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receive_cash.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\receive_cash.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_materialdialog.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.2.2\\res\\layout\\layout_materialdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_share_seat.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\select_share_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\trip_summary_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\sms_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_header.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\map_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_single.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridelater_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\ridelater_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\trip_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summary.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_summary.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backtoapp_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\backtoapp_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_summary.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_seat_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\select_seat_single.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map1.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\map1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tripsummer_list_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\tripsummer_list_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\navigation_back_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_class.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\map_class.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\feedback_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receive_cash.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\receive_cash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_layout_final.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\trip_layout_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tripsummer_list_detail.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\tripsummer_list_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arrivedtrip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\arrivedtrip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_share_seat.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\select_share_seat.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farelist.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\farelist.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\endtrip.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\endtrip.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_list.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary_list.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_loading_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\rating_loading_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\place_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\map_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farelist.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\farelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_library.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_dialog_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list_design.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_list_design.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_detail.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\feedback_page.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_alert.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_alert.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search_single.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\place_search_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_layout_final.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_layout_final.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\rating_page.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_contact_popup.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\choose_contact_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_detail.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_statement_main.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_statement_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_language_change.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\setting_language_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waiting.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\waiting.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\CabilyDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_home.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridecancel_reasons_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\ridecancel_reasons_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\bank_account_header.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trip_summary_header.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\trip_summary_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_home_page_details.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\driver_home_page_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancelreason_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\cancelreason_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\begin_trip.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\begin_trip.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_loading.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_back_full_view.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\navigation_back_full_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_page.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\rating_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_alert.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\activity_driver_alert.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\bank_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_seat_single.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\select_seat_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancelreason_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\cancelreason_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pushnotification.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\pushnotification.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farelist.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\farelist.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_loading_cancel.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\custom_loading_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droplocation_select.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\droplocation_select.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otp_page.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\otp_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_statement_main.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\payment_statement_main.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_home.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fare_popup.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\fare_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_language_change.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\src\\main\\res\\layout\\setting_language_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_dash_board.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\driver_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_single.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\user_list_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank_account_header.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\bank_account_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\TrafficDriveDriver\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_details_list.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\payment_details_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_language_change.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\src\\main\\res\\layout\\setting_language_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ridecancel_reasons_dialog.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\src\\main\\res\\layout\\ridecancel_reasons_dialog.xml"
+    }
+]

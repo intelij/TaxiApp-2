@@ -5489,11 +5489,6 @@ containing a value of this type.
         public static final int Animations_photo_Picker=0x7f0a003a;
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f0a000b;
         /**  Customize your theme here. 

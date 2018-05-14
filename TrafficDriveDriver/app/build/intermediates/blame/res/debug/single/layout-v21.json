@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

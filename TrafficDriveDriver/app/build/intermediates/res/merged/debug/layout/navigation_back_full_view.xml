@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#AE1B0D0D"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:background="#AE1B0D0D"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_kill_one"
+            android:src="@drawable/click_back_one"/>
+
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="RETURN TO CABILY DRIVER"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textSize="13sp"
+            android:id="@+id/textView" />
+
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="Tap here to return to the CABILY DRIVER app"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textSize="11sp"
+            android:id="@+id/textView2" />
+
+    </LinearLayout>
+</RelativeLayout>

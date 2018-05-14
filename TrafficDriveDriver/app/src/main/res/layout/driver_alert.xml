@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Ll_ride_request_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cdcdcd"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:keepScreenOn="true">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#cdcdcd">
+
+        <RelativeLayout
+            android:id="@+id/layout_alerts"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="#FFFFFF"
+            android:paddingBottom="8dp"
+            android:paddingRight="5dp">
+
+            <RelativeLayout
+                android:id="@+id/layout_requst_alert_circulr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <at.grabner.circleprogress.CircleProgressView
+                    android:id="@+id/timer_circleView"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/progress_bar"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    CircleProgressView:barWidth="12dp"
+                    CircleProgressView:contourSize="0dp"
+                    CircleProgressView:rimWidth="12dp"
+                    CircleProgressView:seekMode="true"
+                    CircleProgressView:textColor="#00796B" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/layout_request_user_address_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/layout_requst_alert_circulr">
+
+                <com.cabily.cabilydriver.widgets.CustomTextView
+                    android:id="@+id/cabily_user_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/driver_alert_pickup_request"
+                    android:textColor="#cc0000"
+                    android:textSize="13dp" />
+
+                <com.cabily.cabilydriver.widgets.CustomTextView
+                    android:id="@+id/cabily_alert_address"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cabily_user_address"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="4dp"
+                    android:gravity="fill"
+                    android:text=""
+                    android:textSize="12sp" />
+
+
+                <Button
+                    android:id="@+id/cabily_driver_alert_accept_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="37dp"
+                    android:layout_alignLeft="@+id/cabily_user_address"
+                    android:layout_alignStart="@+id/cabily_user_address"
+                    android:layout_below="@+id/cabily_alert_address"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toLeftOf="@+id/cabily_driver_alert_view"
+                    android:background="#31c3e7"
+                    android:text="@string/cabily_driver_alert_lable_accept_Textview"
+                    android:textColor="#ffffff"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:visibility="visible" />
+
+                <View
+                    android:id="@+id/cabily_driver_alert_view"
+                    android:layout_width="1px"
+                    android:layout_height="10dp"
+                    android:layout_below="@+id/cabily_alert_address"
+                    android:layout_centerHorizontal="true"
+                    android:background="#000000"
+                    android:visibility="invisible" />
+
+
+                <Button
+                    android:id="@+id/cabily_driver_alert_reject_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="37dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/cabily_alert_address"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toLeftOf="@+id/cabily_driver_alert_view"
+                    android:layout_toRightOf="@+id/cabily_driver_alert_accept_btn"
+                    android:background="#000000"
+                    android:text="@string/cabily_driver_alet_lable_reject_Textview"
+                    android:textColor="#ffffff"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:visibility="visible" />
+
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

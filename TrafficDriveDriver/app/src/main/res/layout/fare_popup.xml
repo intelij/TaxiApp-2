@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollvieww"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.cabily.cabilydriver.widgets.CustomTextView
+                android:id="@+id/my_rides_detail_Faredetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+
+                android:text="@string/fare_summary_txt"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+
+            <com.cabily.cabilydriver.widgets.CustomTextView
+                android:id="@+id/my_rides_detail_Total_fare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/my_rides_detail_Faredetail"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+
+                android:text=""
+                android:textSize="21dp"
+                android:textColor="@color/app_color"
+                android:textStyle="bold" />
+
+
+            <com.github.paolorotolo.expandableheightlistview.ExpandableHeightListView
+                android:id="@+id/my_rides_payment_detail_listView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@+id/my_rides_detail_Total_fare"
+                android:layout_marginTop="5dp"
+                android:background="#ffffff"
+                android:divider="@null"></com.github.paolorotolo.expandableheightlistview.ExpandableHeightListView>
+
+
+        </RelativeLayout>
+    </ScrollView>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:layout_below="@+id/scrollvieww">
+
+    <LinearLayout
+        android:id="@+id/trip_details_view_details_time"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fare_summery_wait_time_details_layout"
+        android:layout_marginTop="10dp"
+        android:visibility="visible">
+
+
+        <RelativeLayout
+            android:id="@+id/layout_faresummery_requstpayment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/background_blue_border_layout">
+
+            <com.cabily.cabilydriver.widgets.CustomTextView
+                android:id="@+id/requst"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/fare_summary_ride_request_payment"
+                android:textColor="@color/app_color"
+                android:textSize="12sp"
+                />
+
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/fare_summery_receive_cash_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/fare_summery_wait_time_details_layout"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_blue_border_layout"
+            android:visibility="visible">
+
+            <com.cabily.cabilydriver.widgets.CustomTextView
+                android:id="@+id/receive_cash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/lbel_fare_summery_receive_cash"
+                android:textColor="@color/app_color"
+                android:textSize="12sp"
+                />
+
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@+id/trip_details_view_details_time"/>
+</RelativeLayout>
+</RelativeLayout>

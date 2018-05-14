@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="blue">#6699FF</color>
+    <color name="register_btn_color">#CC00FF</color>
+    <color name="light_gray">#e0e0e0</color>
+    <color name="light_blue">#00B0FF</color>
+    <color name="progress_ripplecolor">#4a520f</color>
+
+    <color name="app_color">#84921b</color>
+    <color name="app_color_transperent1">#636e14</color>
+
+    <color name="app_color_button">#84921b</color>
+
+    <color name="pushnotification_custom_theme_color">#66ffffff</color>
+
+    <color name="white_color">#FFFFFF</color>
+    <color name="grey_color">#4e4e4e</color>
+
+
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_screen"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <!--<ImageView
+            android:id="@+id/mainpagebackgrouncdimg"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/driverlogo" />-->
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp">
+
+
+            <Button
+                android:id="@+id/btn_signin"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/curve_black"
+                android:paddingRight="2dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginLeft="10dp"
+                android:text="@string/cabily_driver_main_lable_signin_Textview"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+
+            <Button
+                android:id="@+id/btn_register"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/curve"
+                android:paddingLeft="2dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="10dp"
+                android:textAllCaps="true"
+                android:text="@string/cabily_driver_main_lable_register_Textview"
+                android:textColor="#e14949"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progress_splash"
+            android:layout_centerVertical="true"
+            android:visibility="invisible"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

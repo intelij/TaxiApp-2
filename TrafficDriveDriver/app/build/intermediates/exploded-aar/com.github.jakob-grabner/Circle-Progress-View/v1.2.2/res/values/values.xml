@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/build/CircleProgressView/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="enum" name="textMode">
+        <enum name="Text" value="0"/>
+        <enum name="Percent" value="1"/>
+        <enum name="Value" value="2"/>
+    </attr>
+    <declare-styleable name="CircleProgressView"><attr format="string" name="text"/><attr format="string" name="unit"/><attr format="color" name="textColor"/><attr format="color" name="unitColor"/><attr format="boolean" name="showUnit"/><attr format="dimension" name="textSize"/><attr format="dimension" name="unitSize"/><attr format="float" name="textScale"/><attr format="float" name="unitScale"/><attr format="boolean" name="autoTextColor"/><attr format="boolean" name="autoTextSize"/><attr name="textMode"/><attr format="float" name="maxValue"/><attr format="dimension" name="barWidth"/><attr format="color" name="barColor"/><attr format="color" name="barColor1"/><attr format="color" name="barColor2"/><attr format="color" name="barColor3"/><attr format="integer" name="startAngle"/><attr format="color" name="spinColor"/><attr format="float" name="spinSpeed"/><attr format="float" name="spinBarLength"/><attr format="boolean" name="showTextInSpinningMode"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="color" name="contourColor"/><attr format="dimension" name="contourSize"/><attr format="color" name="fillColor"/><attr format="boolean" name="seekMode"/></declare-styleable>
+</resources>

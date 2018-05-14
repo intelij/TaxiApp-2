@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:fitsSystemWindows="true" >
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+    <RelativeLayout
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|start"
+        android:clickable="true"
+        android:background="#ffffff" >
+
+        <ListView
+            android:id="@+id/drawer_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:background="#ffffff"
+            android:clickable="true"
+            android:choiceMode="singleChoice"
+            android:dividerHeight="0dp"
+            android:divider="@null"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/drawer_listview">
+
+        <View
+            android:id="@+id/v1"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:layout_alignParentBottom="true"
+            android:background="#ffffff"
+
+
+            />
+
+
+        <com.cabily.cabilydriver.widgets.CustomTextView
+            android:id="@+id/verion_no"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/v1"
+            android:layout_centerInParent="true"
+            android:text="Version 2.0"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:textColor="#c9c9c9"
+            android:textSize="15sp"
+            android:typeface="sans"
+            android:clickable="true"/>
+
+        <View
+            android:id="@+id/v3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#f7f7f7"
+            android:layout_marginBottom="15dp"
+            android:layout_above="@+id/verion_no"
+
+            />
+
+    </RelativeLayout>
+    </RelativeLayout>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:id="@+id/layout_begin_trip_header"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/app_color">
+
+
+        <RelativeLayout
+            android:id="@+id/layout_begin_trip_cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="55dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/app_color"
+            android:visibility="visible">
+
+
+            <com.otlcab.driver.widgets.CustomTextView
+                android:id="@+id/begin_trip_deiver_cancel_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:text="@string/lbel_begintrip_label_cancel"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+        <com.otlcab.driver.widgets.CustomTextView
+            android:id="@+id/begin_trip_nameTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="vdv"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_begin_trip_details"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_begin_trip_header">
+
+
+        <RelativeLayout
+            android:id="@+id/layout_begin_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp">
+
+            <com.otlcab.driver.Utils.RoundedImageView
+                android:id="@+id/profile_image"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/nouserimg" />
+
+            <View
+                android:id="@+id/begin_trip_view"
+                android:layout_width="2px"
+                android:layout_height="80dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/profile_image"
+                android:background="#b3b3b3" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/layout_begin_details">
+
+
+            <RelativeLayout
+
+                android:id="@+id/layout_begintrip_rideids"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone">
+
+                <com.otlcab.driver.widgets.CustomTextView
+                    android:id="@+id/rideid_Tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/payment_list_ridesid"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+
+                <com.otlcab.driver.widgets.CustomTextView
+                    android:id="@+id/begintrip_rideid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/rideid_Tv"
+                    android:text="2025154"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+            <com.otlcab.driver.widgets.CustomTextView
+                android:id="@+id/begintrip_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/layout_begintrip_rideids"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Names"
+                android:textSize="18sp" />
+
+
+            <com.otlcab.driver.widgets.CustomTextView
+                android:id="@+id/begintrip_mobilno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/begintrip_name"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="1454152121"
+                android:textColor="#8acc13"
+                android:textSize="18sp" />
+            <ImageView
+                android:id="@+id/begintrip_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_below="@+id/begintrip_mobilno"
+                android:layout_marginBottom="15dp"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/cell" />
+
+            <RelativeLayout
+                android:id="@+id/layout_begin_Enable_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                >
+
+                <ImageView
+                    android:id="@+id/enable_voice_img"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/navigation" />
+
+
+                <com.otlcab.driver.widgets.CustomTextView
+                    android:id="@+id/navigationTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/enable_voice_img"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/voice_navigationlabel"
+                    android:textColor="#389ad4"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/dummy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/navigationTv"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/voice_navigationlabel"
+                    android:textColor="#000000"
+                    android:textSize="13sp"
+                    android:visibility="invisible" />
+
+
+            </RelativeLayout>
+           <!-- <ImageView
+                android:id="@+id/begintrip_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/begintrip_mobilno"
+                android:layout_marginBottom="15dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/cell"  />-->
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/layout_begin_trip_details">
+
+
+        <fragment
+            android:id="@+id/arrived_trip_view_map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/book_cardview_destination_address_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            card_view:cardElevation="5dp">
+
+
+            <RelativeLayout
+                android:id="@+id/begin_trip_droplocation_layout"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@+id/layout_begin_trip_details">
+
+                <ImageView
+                    android:id="@+id/book_navigation_search_imageView"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/search_icon" />
+
+                <com.otlcab.driver.widgets.CustomTextView
+                    android:id="@+id/location_drop_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@+id/book_navigation_search_imageView"
+                    android:singleLine="true"
+                    android:text="@string/action_enter_drop_location"
+                    android:textColor="#4e4e4e"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+
+        <RelativeLayout
+            android:id="@+id/begintrip_alert_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:background="#D9030303"
+            android:visibility="gone">
+
+            <com.otlcab.driver.widgets.CustomTextView
+                android:id="@+id/begintrip_alert_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:text="hbvsvbjhjsnvbjhnnb"
+                android:textColor="#FCC900"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/layout_begintrip"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@color/app_color">
+
+        <com.otlcab.driver.widgets.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lbel_begintrip"
+            android:textColor="@color/white_color"
+            android:textSize="20dp"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

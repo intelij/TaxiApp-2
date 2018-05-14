@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_image"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="#ffffff">
+
+
+            <Button
+                android:id="@+id/btn_signin"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/app_color"
+                android:paddingRight="2dp"
+                android:layout_marginRight="2dp"
+                android:text="@string/cabily_driver_main_lable_signin_Textview"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+
+
+
+
+
+            <Button
+                android:id="@+id/btn_register"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/app_color"
+                android:paddingLeft="2dp"
+                android:text="@string/cabily_driver_main_lable_register_Textview"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</RelativeLayout>

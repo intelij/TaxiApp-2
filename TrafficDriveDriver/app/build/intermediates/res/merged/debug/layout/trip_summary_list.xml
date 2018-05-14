@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <!-- <ImageView
+         android:id="@+id/time_imageview"
+         android:layout_width=""
+         android:layout_height="20dp"
+         android:layout_centerVertical="true"
+         android:layout_marginLeft="10dp"
+         android:layout_marginTop="10dp"
+         android:background="@drawable/timer" />
+
+     <TextView
+         android:id="@+id/trip_summary_list_address"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignTop="@+id/time_imageview"
+         android:layout_marginLeft="20dp"
+         android:layout_toEndOf="@+id/time_imageview"
+         android:layout_toRightOf="@+id/time_imageview"
+         android:text="New Text"
+         android:textColor="#424242"
+         android:textSize="13dp" />
+
+     <TextView
+         android:id="@+id/trip_summary_list_date_and_time"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/trip_summary_list_address"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="5dp"
+         android:layout_marginTop="3dp"
+         android:layout_toRightOf="@+id/time_imageview"
+         android:singleLine="true"
+         android:text=""
+         android:textColor="#918e8e"
+         android:textSize="12sp" />-->
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#ffffff">
+
+        <ImageView
+            android:id="@+id/time_imageview"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/timer" />
+
+        <com.cabily.cabilydriver.widgets.CustomTextView
+            android:id="@+id/trip_summary_list_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="7dp"
+            android:layout_toRightOf="@+id/time_imageview"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="#4e4e4e"
+            android:textSize="13sp" />
+
+        <com.cabily.cabilydriver.widgets.CustomTextView
+            android:id="@+id/trip_summary_list_date_and_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/trip_summary_list_address"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@+id/time_imageview"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="#918e8e"
+            android:textSize="12sp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="1px"
+            android:layout_below="@+id/trip_summary_list_date_and_time"
+            android:layout_marginTop="10dp"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

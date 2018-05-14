@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:id="@+id/layout_changeLanguage"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/app_color">
+
+        <ImageView
+            android:id="@+id/ham_home"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="5dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ham_new" />
+
+
+        <com.cabily.cabilydriver.widgets.CustomTextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/change_language_setttings"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:id="@+id/layout_changepassword_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/changepassword_done_img"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/tickimg"
+
+                />
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/language_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/change_language_title"
+        android:layout_below="@+id/layout_changeLanguage"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/layout_Language"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/language_title"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/layout_border">
+
+        <ImageView
+            android:id="@+id/language_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/change_icon"/>
+
+
+
+        <Spinner
+            android:id="@+id/language_spinner"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/language_icon"
+            android:textColor="#000000"
+            android:textSize="14sp"/>
+
+
+
+        <TextView
+            android:id="@+id/language_labe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/language_spinner"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/language_icon"
+            android:text="@string/profile_lable_language"
+            android:textColor="#9b9b99"
+            android:textSize="14sp"/>
+
+
+        <View
+            android:id="@+id/view6"
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/language_spinner"
+            android:background="#4e4e4e"/>
+
+
+
+        <RelativeLayout
+            android:id="@+id/change_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/view6"
+            android:layout_alignParentRight="true">
+
+
+            <TextView
+                android:id="@+id/change_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:textColor="#4e4e4e"
+                android:textSize="15dp"
+                android:text="@string/profile_lable_language_change"
+                />
+
+        </RelativeLayout>
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

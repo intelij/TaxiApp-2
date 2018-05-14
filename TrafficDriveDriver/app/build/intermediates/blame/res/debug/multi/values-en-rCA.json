@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 103,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\PC 4\\Desktop\\TrafficDrive\\TrafficDriveDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 103,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\CABILY PRODUCT\\CabilyDriver\\CabilyDriver\\CabilyDriver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 103,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    }
+]
