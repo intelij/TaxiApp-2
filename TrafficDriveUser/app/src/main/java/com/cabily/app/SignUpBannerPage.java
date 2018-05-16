@@ -60,14 +60,21 @@ public class SignUpBannerPage extends ActivityHockeyApp implements BaseSliderVie
 
         int[] myImageInt = {
                 R.drawable.banner1,
-                //TSVETAN remove banner for refer frend and book ride for later
+                //TSVETAN remove banner for refer frend and book ride for later PICTURES
                // R.drawable.banner2,
-               // R.drawable.banner3,
+                //R.drawable.banner3,
                 R.drawable.banner4,
                 R.drawable.banner5};
 
+
+        //TSVETAN remove banner for refer frend and book ride for later TEXTS
         String[] myText = getResources().getStringArray(R.array.titles);
-        myAdapter = new CustomPagerAdapter(SignUpBannerPage.this, myImageInt, myText);
+        String[] myTextTsvetan = new String[3];
+        myTextTsvetan[0] = myText[0];
+        myTextTsvetan[1] = myText[3];
+        myTextTsvetan[2] = myText[4];
+
+        myAdapter = new CustomPagerAdapter(SignUpBannerPage.this, myImageInt, myTextTsvetan);
         myViewPager.setAdapter(myAdapter);
         pagerIndicator.setViewPager(myViewPager);
         myViewPager.startAutoScroll();

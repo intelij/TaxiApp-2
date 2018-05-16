@@ -462,10 +462,10 @@
                         android:layout_height="wrap_content"
                         android:layout_centerInParent="true"
                         android:text=""
-                        android:textColor="#cc0000"
+                        android:textColor="#84921b"
                         android:textSize="14sp"
                         android:visibility="gone" />
-
+                    <!--TSVETAN-->
                 </RelativeLayout>
 
 

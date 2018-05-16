@@ -30,9 +30,9 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="10dp"
                 android:text="@string/pushnotification_alert_label_message"
-                android:textColor="#F05253"
+                android:textColor="#84921b"
                 android:textSize="18dp"/>
-
+                <!-- TSVETAN  COLOR CHANGE -->
 
             <com.mylibrary.widgets.CustomTextView
                 android:id="@+id/pushnotification_alert_messge_textview"

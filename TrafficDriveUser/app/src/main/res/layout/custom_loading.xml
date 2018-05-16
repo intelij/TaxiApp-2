@@ -24,12 +24,13 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/action_signingIn"
-            android:textColor="#F83C6F"
+            android:textColor="#84921b"
             android:layout_marginLeft="15dp"
             android:layout_marginRight="30dp"
             android:textSize="15sp"
             android:textStyle="bold"
             android:typeface="serif" />
+            <!--TSVETAN-->
 
     </LinearLayout>
 

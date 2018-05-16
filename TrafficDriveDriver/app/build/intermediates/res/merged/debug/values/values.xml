@@ -540,11 +540,11 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="aboutus_lable_aboutus_description_textview">Cabily – A taxi booking app that will take the hassle out of getting to your destination quickly and without having to spend too much. Using highly advanced taxi booking software, It will provide you with a quick quote to help you avoid any surprises when you get to your destination, and assign you to a professional and responsible driver.</string>
-    <string name="aboutus_lable_company_textview">CABILY PARTNER</string>
+    <string name="aboutus_lable_aboutus_description_textview">TrafficDrive – A taxi booking app that will take the hassle out of getting to your destination quickly and without having to spend too much. Using highly advanced taxi booking software, It will provide you with a quick quote to help you avoid any surprises when you get to your destination, and assign you to a professional and responsible driver.</string>
+    <string name="aboutus_lable_company_textview">TrafficDrive PARTNER</string>
     <string name="aboutus_lable_header_textview">ABOUT US</string>
     <string name="aboutus_lable_moreinfo_textview">More Info</string>
-    <string name="aboutus_lable_poweredby_textview">POWERED BY : CABILY PARTNER</string>
+    <string name="aboutus_lable_poweredby_textview">POWERED BY : TrafficDrive PARTNER</string>
     <string name="aboutus_lable_version_code_textview">VERSION 2.1</string>
     <string name="aboutus_lable_version_textview">Version</string>
     <string name="acccount_holder_address_hint">Address</string>
@@ -639,7 +639,7 @@
     <string name="alert_tripdetail_select_droptime_label_title">Select drop time</string>
     <string name="alert_tripdetail_waitingtime_label_title">Waiting Time</string>
     <string name="alertsaved_label_title">Saved successfully</string>
-    <string name="app_name">Cabily Partner</string>
+    <string name="app_name">TrafficDrive Partner</string>
     <string name="arrived_alert_content1">Unable to contact user. please try again after sometime</string>
     <string name="arrivedtrip_arrivedtriptv_label">Slide to Arrived</string>
     <string name="arrivedtrip_id_label">ID :</string>
@@ -806,7 +806,7 @@
     <string name="lasttrip_label">Last Trip</string>
     <string name="lbel_Note">Note:</string>
     <string name="lbel_Note_Detail">Please make sure that drop time is before atleast an hour from now and waiting time is between of pickup and drop time</string>
-    <string name="lbel_alert_inform">Cabily Partner</string>
+    <string name="lbel_alert_inform">Traffic Drive Partner</string>
     <string name="lbel_alert_inform2">Please visit our website to register. Thank you</string>
     <string name="lbel_alert_register_success">Driver Account has been Successfully Registered with us!</string>
     <string name="lbel_alert_thanks">Thank You</string>
@@ -839,7 +839,7 @@
     <string name="login_label_Privacy_Policy">Privacy Policy</string>
     <string name="login_label_Terms_of_service">Terms of Service</string>
     <string name="login_label_and">and</string>
-    <string name="login_label_privacypolicy">By signing in, I agree to the Cabily Partner</string>
+    <string name="login_label_privacypolicy">By signing in, I agree to the TrafficDrive Partner</string>
     <string name="map_lable_available_status">You have a pending trip / transaction . Please tap to view. Without resolving this you will not get ride requests</string>
     <string name="map_lable_verify_status">Please verify the status of the driver from admin panel</string>
     <string name="mr_button_content_description">Cast button</string>

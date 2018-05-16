@@ -55,8 +55,9 @@
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
             android:text="@string/emergencycontact_lable_save_contact_textview"
-            android:textColor="#F05253"
+            android:textColor="#84921b"
             android:textSize="20sp" />
+            <!--TSVETAN-->
     </RelativeLayout>
 
     <ScrollView

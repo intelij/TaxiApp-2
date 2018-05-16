@@ -57,7 +57,7 @@
             android:layout_marginRight="35dp"
             android:layout_marginTop="20dp"
             android:text="@string/register_label_referal_ok"
-            android:textColor="#ed4747"
+            android:textColor="#84921b"
             android:textSize="17sp"
             android:textStyle="bold" />
 

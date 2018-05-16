@@ -42,11 +42,12 @@
                 android:layout_marginLeft="3dp"
                 android:layout_marginRight="10dp"
                 android:layout_weight="1"
-                android:textColor="#e14949"
+                android:textColor="#84921b"
                 android:textStyle="bold"
                 android:textSize="18dp"
                 android:gravity="center"
                 android:text="@string/register_label"/>
+                <!--TSVETAN-->
 
 
 

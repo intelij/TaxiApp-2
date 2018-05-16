@@ -365,10 +365,10 @@
                 android:id="@+id/book_current_location_imageview"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:layout_above="@+id/book_my_ride_share_textView"
-                android:layout_alignParentRight="true"
-                android:layout_marginBottom="20dp"
-                android:layout_marginRight="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginBottom="71dp"
+                android:layout_marginEnd="13dp"
                 android:src="@drawable/navi_cur_loc" />
 
             <com.mylibrary.widgets.CustomTextView

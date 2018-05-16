@@ -849,7 +849,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                     listview.setVisibility(View.VISIBLE);
                 }*/
                 categoryListviewCliclableMethod(true);
-                rideLater_layout.setVisibility(View.VISIBLE);
+                //TSVETAN
+                //rideLater_layout.setVisibility(View.VISIBLE);
                 center_icon.setVisibility(View.VISIBLE);
                 rideLater_textview.setText(getResources().getString(R.string.home_label_ride_later));
                 rideNow_textview.setText(getResources().getString(R.string.home_label_ride_now));
@@ -1783,8 +1784,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                             sShare_ride = false;
                             rideType = "";
                             tv_share.setVisibility(View.GONE);
-
-                            rideLater_layout.setVisibility(View.VISIBLE);
+                            //TSVETAN
+                            //rideLater_layout.setVisibility(View.VISIBLE);
                             tv_estimate.setText(getResources().getString(R.string.ridenow_label_estimate));
                             tv_estimate_label.setText(getResources().getString(R.string.ridenow_label_enter_drop_loc));
 
@@ -2953,7 +2954,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                                             rideLater_layout.setVisibility(View.GONE);
                                             rideNow_textview.setText(getResources().getString(R.string.action_enter_drop_location));
                                         } else {
-                                            rideLater_layout.setVisibility(View.VISIBLE);
+                                            //TSVETAN
+                                            //rideLater_layout.setVisibility(View.VISIBLE);
                                             rideNow_textview.setText(getResources().getString(R.string.home_label_ride_now));
                                         }
                                     }
@@ -3078,7 +3080,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                                         rideLater_layout.setVisibility(View.GONE);
                                         rideNow_textview.setText(getResources().getString(R.string.action_enter_drop_location));
                                     } else {
-                                        rideLater_layout.setVisibility(View.VISIBLE);
+                                        //TSVETAN
+                                        //rideLater_layout.setVisibility(View.VISIBLE);
                                         rideNow_textview.setText(getResources().getString(R.string.home_label_ride_now));
                                     }
                                 }
@@ -3188,6 +3191,7 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
             System.out.println("-------------------addreess----------------0" + LocationName);
 
             if (LocationName != null) {
+                rideNow_layout.setEnabled(true); //TSVETAN ENABLE RIDENOW BUTTON
                 if (!isLocationType) {
                     map_address.setText(LocationName);
                     SselectedAddress = LocationName;
@@ -3488,7 +3492,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                                             listview.setVisibility(View.INVISIBLE);
                                         }*/
                                         categoryListviewCliclableMethod(false);
-                                        rideLater_layout.setVisibility(View.VISIBLE);
+                                        //TSVETAN
+                                        //rideLater_layout.setVisibility(View.VISIBLE);
                                         tv_estimate.setText(getResources().getString(R.string.ridenow_label_estimate));
                                         tv_estimate_label.setText(getResources().getString(R.string.ridenow_label_enter_drop_loc));
                                         rideLater_textview.setText(getResources().getString(R.string.home_label_ride_later));
@@ -3951,7 +3956,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                                             listview.setVisibility(View.VISIBLE);
                                         }*/
                                         categoryListviewCliclableMethod(true);
-                                        rideLater_layout.setVisibility(View.VISIBLE);
+                                        //TSVETAN
+                                       // rideLater_layout.setVisibility(View.VISIBLE);
                                         tv_estimate.setText(getResources().getString(R.string.ridenow_label_estimate));
                                         tv_estimate_label.setText(getResources().getString(R.string.ridenow_label_enter_drop_loc));
                                         rideLater_textview.setText(getResources().getString(R.string.home_label_ride_later));
@@ -4798,7 +4804,8 @@ public class Fragment_HomePage extends FragmentHockeyApp implements GoogleApiCli
                     listview.setVisibility(View.VISIBLE);
                 }*/
                 categoryListviewCliclableMethod(true);
-                rideLater_layout.setVisibility(View.VISIBLE);
+                //TSVETAN
+               // rideLater_layout.setVisibility(View.VISIBLE);
                 rideLater_textview.setText(getResources().getString(R.string.home_label_ride_later));
                 center_icon.setVisibility(View.VISIBLE);
                 backStatus = false;

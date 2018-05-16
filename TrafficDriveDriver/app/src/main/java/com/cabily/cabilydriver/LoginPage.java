@@ -375,8 +375,9 @@ public class LoginPage extends BaseActivity implements View.OnClickListener, Goo
     }
 
     private void postRequest(final String url) {
+        String email = emailid.getText().toString().replace(" ","").trim();
         HashMap<String, String> jsonParams = new HashMap<String, String>();
-        jsonParams.put("email", emailid.getText().toString().replace(" ","").trim());
+        jsonParams.put("email", email);
         jsonParams.put("password", password.getText().toString());
         jsonParams.put("gcm_id", GCM_Id);
         jsonParams.put("latitude", sLatitude);

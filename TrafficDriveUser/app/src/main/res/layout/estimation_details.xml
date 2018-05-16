@@ -75,8 +75,9 @@
                                 android:layout_marginLeft="10dp"
                                 android:background="#ffffff"
                                 android:text="@string/estimate_detail_label_pickup"
-                                android:textColor="#cc0000"
+                                android:textColor="#84921b"
                                 android:textSize="15dp"/>
+                                <!--TSVETAN-->
 
                         </LinearLayout>
                         <View

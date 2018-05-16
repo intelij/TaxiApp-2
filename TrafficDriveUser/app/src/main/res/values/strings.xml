@@ -271,12 +271,12 @@
     <!--AboutUs-->
     <string name="aboutus_lable_header_textview">ABOUT US</string>
     <string name="aboutus_lable_version_textview">Version</string>
-    <string name="aboutus_lable_poweredby_textview">POWERED BY : CABILY</string>
+    <string name="aboutus_lable_poweredby_textview">POWERED BY : TrafficDrive</string>
     <string name="aboutus_lable_company_textview">CABILY</string>
     <string name="aboutus_lable_version_code_textview">VERSION 2.1</string>
     <string name="aboutus_lable_moreinfo_textview">More Info</string>
     <string name="cabily_aboutus_webview_lable_header_textview">ABOUT US</string>
-    <string name="aboutus_lable_aboutus_description_textview">Cabily – A taxi booking app that will take the hassle out of getting to your destination quickly and without having to spend too much. Using highly advanced taxi booking software, It will provide you with a quick quote to help you avoid any surprises when you get to your destination, and assign you to a professional and responsible driver.</string>
+    <string name="aboutus_lable_aboutus_description_textview">TrafficDrive – A taxi booking app that will take the hassle out of getting to your destination quickly and without having to spend too much. Using highly advanced taxi booking software, It will provide you with a quick quote to help you avoid any surprises when you get to your destination, and assign you to a professional and responsible driver.</string>
 
     <!--Emergency Contact-->
     <string name="emergencycontact_lable_header_textview">EMERGENCY CONTACT</string>
@@ -340,7 +340,7 @@
     <string name="ratecard_lable_perMin">per min</string>
 
     <!--Cabily Money-->
-    <string name="cabily_lable_header_textview">CABILY MONEY</string>
+    <string name="cabily_lable_header_textview">TrafficDrive MONEY</string>
     <string name="cabilymoney_lable_textview">Cash less, hassle-free rides &amp; more... </string>
     <string name="cabilymoney_lable_yourcurrent_balance_textview">Your current balance</string>
     <string name="cabilymoney_lable_rechargemoney_textview">Recharge Cabily Money</string>
@@ -348,7 +348,7 @@
     <string name="cabilymoney_lable_rechargemoney_edittext">Enter amount between $10 - $100</string>
     <string name="cabilymoney_lable_rechargemoney_edittext_hint">Enter amount between</string>
     <string name="cabilymoney_lable_rechargemoney_alert">Recharge amount should be between</string>
-    <string name="cabilymoney_lable_addcabilymoney">ADD CABILY MONEY</string>
+    <string name="cabilymoney_lable_addcabilymoney">ADD TrafficDrive MONEY</string>
     <string name="cabilymoney_enter_amount">please enter amount to add your wallet</string>
     <string name="action_loading_cabily_money_empty_field">Amount can\'t be empty</string>
     <string name="action_loading_cabilymoney_transaction_wallet_success">Transaction successful</string>
@@ -612,7 +612,7 @@
         <item>Schedule rides now or late</item>
         <item>Earn money by referring your friends</item>
         <item>Real time tracking of your rides</item>
-        <item>Go cashless by recharging your Cabily wallet money</item>
+        <item>Go cashless by recharging your TrafficDrive wallet money</item>
     </string-array>
 
 

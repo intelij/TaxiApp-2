@@ -3,6 +3,7 @@ package com.app.service;
 import android.content.Context;
 import android.content.Intent;
 import android.text.TextUtils;
+import android.util.Base64;
 import android.view.View;
 import android.widget.Toast;
 
@@ -206,6 +207,11 @@ public class ServiceManager {
                 headers.put("apptype", ServiceConstant.cabily_AppType);
                 headers.put("driverid", userID);
                 headers.put("apptoken", gcmID);
+                //TSVETAN  //HARDCORED FOR DEVELOPMENT PURPOSE, will delete later !!!!
+                String credentials = "client" + ":" + "softart";
+                String base64EncodedCredentials = Base64.encodeToString(credentials.getBytes(), Base64.NO_WRAP);
+                headers.put("Authorization", "Basic " + base64EncodedCredentials);
+
                 System.out.println("Authkey------------" + Agent_Name);
                 System.out.println("applanguage------------"+language_code);
                 System.out.println("app header------------"+headers.toString());
