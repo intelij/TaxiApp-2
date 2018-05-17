@@ -154,13 +154,13 @@
 
 
         <!-- MAP Permission -->
-        <!-- <meta-data
-             android:name="com.google.android.maps.v2.API_KEY"
-             android:value="AIzaSyDX3ihFwLTKgZcrIL-NhZVP7ejdemZaIFk" />-->
-
         <meta-data
+             android:name="com.google.android.maps.v2.API_KEY"
+             android:value="AIzaSyDX3ihFwLTKgZcrIL-NhZVP7ejdemZaIFk" />
+
+       <!-- <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyANNgd4N7iiMbEDt_ggGYb6Xd3uCHojTtc" />
+            android:value="AIzaSyANNgd4N7iiMbEDt_ggGYb6Xd3uCHojTtc" /> -->
 
         <!--AIzaSyBPE-OK-WIkdh2HYd1q0eeN4qGiR2JyRfU-->
         <activity android:name="net.hockeyapp.android.UpdateActivity" />

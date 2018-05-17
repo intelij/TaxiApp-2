@@ -2,6 +2,7 @@ package com.mylibrary.dialog;
 
 import android.app.Dialog;
 import android.content.Context;
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.util.DisplayMetrics;
 import android.view.View;
@@ -86,6 +87,9 @@ public class PkDialog {
 
 
     public void setDialogTitle(String title) {
+
+        //TSVETAN Alert Dialog Text Color
+        alert_title.setTextColor(Color.parseColor("#84921b"));
         alert_title.setText(title);
     }
 

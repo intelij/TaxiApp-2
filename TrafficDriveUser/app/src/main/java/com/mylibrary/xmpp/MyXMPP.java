@@ -51,8 +51,8 @@ public class MyXMPP {
     public MyXMPP(XmppService context, String mServiceName, String mHostAddress, String loginUser, String passwordUser) {
         this.serviceName = mServiceName;
         this.hostAddress = mHostAddress;
-        this.loginUser = loginUser;
-        this.passwordUser = passwordUser;
+        this.loginUser = loginUser; //trackuser
+        this.passwordUser = passwordUser; //trackpass
         this.context = context;
         init();
     }

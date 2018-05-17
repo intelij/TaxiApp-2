@@ -80,6 +80,10 @@ public class RateCard extends ActivityHockeyApp {
         //Start XMPP Chat Service
 //        ChatService.startUserAction(RateCard.this);
 
+
+        //TSVETAN SET PLOVDIV AND CAR AS SELECTED ITEMS
+
+
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -294,6 +298,7 @@ public class RateCard extends ActivityHockeyApp {
                         ArrayAdapter<String> adapter = new ArrayAdapter<String>(RateCard.this,
                                 R.layout.ratecard_city_spinner_dropdown, city_array);
                         city_spinner.setAdapter(adapter);
+                        city_spinner.setSelection(1);
                     } else {
                         String Sresponse = object.getString("response");
                         Alert(getResources().getString(R.string.alert_label_title), Sresponse);
@@ -386,6 +391,7 @@ public class RateCard extends ActivityHockeyApp {
                         car_adapter = new ArrayAdapter<String>(RateCard.this,
                                 R.layout.ratecard_city_spinner_dropdown, car_array);
                         carType_spinner.setAdapter(car_adapter);
+                        carType_spinner.setSelection(1);
                     } else {
                         String Sresponse = object.getString("response");
                         Alert(getResources().getString(R.string.alert_label_title), Sresponse);
